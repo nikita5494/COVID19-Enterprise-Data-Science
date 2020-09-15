@@ -1,7 +1,22 @@
-ADS_Covid19
+Applied Data Science for Covid19 Data Visualization
 ==============================
 
 Applied data science on Covid19 data
+
+The goal of this project is to learn the best practices of data science from the industry while developing a COVID-19 analysis prototype, to trace the confirmed number, calculate the doubling rate and doubling time for 100+ countries and also to generate SIR model simulation.
+
+The final result will be a dynamic dashboard - which can be updated by one click - of COVID-19 data with filtered and calculated data sets like the current Doubling Rate of confirmed cases.
+
+Techniques used are REST Services, Python Pandas, scikit-learn, Facebook Prophet, Plotly, Dash.
+
+For this, I have followed an industry-standard process (CRISP-DM) by focusing on the iterative nature of agile development
+
+* Business understanding (what is our goal)
+* Data Understanding (where do we get data and cleaning of data)
+* Data Preparation (data transformation and visualization)
+* Modeling (Statistics, Machine Learning, and SIR Simulations on COVID Data)
+* Deployment (how to deliver results, dynamic dashboards in python)
+* The entire project follows the development flow of a rapid prototype project
 
 Project Organization
 ------------
